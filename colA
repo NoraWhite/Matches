@@ -1,0 +1,29 @@
+#!/bin/bash
+sed -i 's/10/A/g' /Matches/Temp2/Deck &&
+sed -i 's/11/B/g' /Matches/Temp2/Deck &&
+sed -i 's/12/C/g' /Matches/Temp2/Deck &&
+sed -i 's/13/D/g' /Matches/Temp2/Deck &&
+sed -i 's/14/E/g' /Matches/Temp2/Deck &&
+sed -i 's/15/F/g' /Matches/Temp2/Deck &&
+sed -i 's/16/G/g' /Matches/Temp2/Deck &&
+sed -i 's/17/H/g' /Matches/Temp2/Deck &&
+sed -i 's/18/I/g' /Matches/Temp2/Deck &&
+sed -i 's/19/J/g' /Matches/Temp2/Deck &&
+sed -i 's/20/K/g' /Matches/Temp2/Deck &&
+sed -i 's/21/L/g' /Matches/Temp2/Deck &&
+sed -i 's/22/M/g' /Matches/Temp2/Deck &&
+sed -i 's/23/N/g' /Matches/Temp2/Deck &&
+sed -i 's/24/O/g' /Matches/Temp2/Deck &&
+sed -i 's/25/P/g' /Matches/Temp2/Deck &&
+sed -i 's/26/Q/g' /Matches/Temp2/Deck &&
+sed -i 's/27/R/g' /Matches/Temp2/Deck &&
+sed -i 's/28/S/g' /Matches/Temp2/Deck &&
+sed -i 's/29/T/g' /Matches/Temp2/Deck &&
+sed -i 's/30/U/g' /Matches/Temp2/Deck &&
+sed -i 's/31/V/g' /Matches/Temp2/Deck &&
+sed -i 's/32/W/g' /Matches/Temp2/Deck &&
+sed -i 's/33/X/g' /Matches/Temp2/Deck &&
+sed -i 's/34/Y/g' /Matches/Temp2/Deck &&
+sed -i 's/35/Z/g' /Matches/Temp2/Deck &&
+awk 'NR%256{printf $0"";next;}1' /Matches/Temp2/Deck > /Matches/Temp2/Deck3
+awk 'NR%256{printf $0"";next;}1' /Matches/Temp2/Deck > /Matches/Temp2/Deck4
