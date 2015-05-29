@@ -1,0 +1,15 @@
+#!/bin/bash
+kill -9 $(cat /tmp/pids/mongrel.pid) &
+sh /Matches/colL
+rm /Matches/Temp/2
+sh /Matches/colA
+sh /Matches/colRP
+sh /Matches/Premark
+sh /Matches/colA2
+sh /Matches/Remove2
+sh /Matches/Temp/MKey5
+cat /Matches/Temp/2
+cat /Matches/Temp2/Deck3 >> /Matches/DexList
+sleep 0;
+pgrep -x sh > /tmp/pids/mongrel.pid &&
+sh /Matches/lessMatches3
