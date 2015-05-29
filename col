@@ -1,0 +1,514 @@
+#!/bin/bash
+cut -c1-1 /Matches/Temp/1 > /Matches/Temp2/1D &&
+cut -c2-2 /Matches/Temp/1 > /Matches/Temp2/2D &&
+cut -c3-3 /Matches/Temp/1 > /Matches/Temp2/3D && 
+cut -c4-4 /Matches/Temp/1 > /Matches/Temp2/4D &&
+cut -c5-5 /Matches/Temp/1 > /Matches/Temp2/5D &&
+cut -c6-6 /Matches/Temp/1 > /Matches/Temp2/6D &&
+cut -c7-7 /Matches/Temp/1 > /Matches/Temp2/7D &&
+cut -c8-8 /Matches/Temp/1 > /Matches/Temp2/8D &&
+cut -c9-9 /Matches/Temp/1 > /Matches/Temp2/9D &&
+cut -c10-10 /Matches/Temp/1 > /Matches/Temp2/10D &&
+cut -c11-11 /Matches/Temp/1 > /Matches/Temp2/11D &&
+cut -c12-12 /Matches/Temp/1 > /Matches/Temp2/12D &&
+cut -c13-13 /Matches/Temp/1 > /Matches/Temp2/13D &&
+cut -c14-14 /Matches/Temp/1 > /Matches/Temp2/14D &&
+cut -c15-15 /Matches/Temp/1 > /Matches/Temp2/15D &&
+cut -c16-16 /Matches/Temp/1 > /Matches/Temp2/16D &&
+cut -c17-17 /Matches/Temp/1 > /Matches/Temp2/17D &&
+cut -c18-18 /Matches/Temp/1 > /Matches/Temp2/18D &&
+cut -c19-19 /Matches/Temp/1 > /Matches/Temp2/19D &&
+cut -c20-20 /Matches/Temp/1 > /Matches/Temp2/20D &&
+cut -c21-21 /Matches/Temp/1 > /Matches/Temp2/21D &&
+cut -c22-22 /Matches/Temp/1 > /Matches/Temp2/22D &&
+cut -c23-23 /Matches/Temp/1 > /Matches/Temp2/23D &&
+cut -c24-24 /Matches/Temp/1 > /Matches/Temp2/24D &&
+cut -c25-25 /Matches/Temp/1 > /Matches/Temp2/25D &&
+cut -c26-26 /Matches/Temp/1 > /Matches/Temp2/26D &&
+cut -c27-27 /Matches/Temp/1 > /Matches/Temp2/27D &&
+cut -c28-28 /Matches/Temp/1 > /Matches/Temp2/28D &&
+cut -c29-29 /Matches/Temp/1 > /Matches/Temp2/29D &&
+cut -c30-30 /Matches/Temp/1 > /Matches/Temp2/30D &&
+cut -c31-31 /Matches/Temp/1 > /Matches/Temp2/31D &&
+cut -c32-32 /Matches/Temp/1 > /Matches/Temp2/32D &&
+cut -c33-33 /Matches/Temp/1 > /Matches/Temp2/33D &&
+cut -c34-34 /Matches/Temp/1 > /Matches/Temp2/34D &&
+cut -c35-35 /Matches/Temp/1 > /Matches/Temp2/35D &&
+cut -c36-36 /Matches/Temp/1 > /Matches/Temp2/36D &&
+cut -c37-37 /Matches/Temp/1 > /Matches/Temp2/37D &&
+cut -c38-38 /Matches/Temp/1 > /Matches/Temp2/38D &&
+cut -c39-39 /Matches/Temp/1 > /Matches/Temp2/39D &&
+cut -c40-40 /Matches/Temp/1 > /Matches/Temp2/40D &&
+cut -c41-41 /Matches/Temp/1 > /Matches/Temp2/41D &&
+cut -c42-42 /Matches/Temp/1 > /Matches/Temp2/42D &&
+cut -c43-43 /Matches/Temp/1 > /Matches/Temp2/43D &&
+cut -c44-44 /Matches/Temp/1 > /Matches/Temp2/44D &&
+cut -c45-45 /Matches/Temp/1 > /Matches/Temp2/45D &&
+cut -c46-46 /Matches/Temp/1 > /Matches/Temp2/46D &&
+cut -c47-47 /Matches/Temp/1 > /Matches/Temp2/47D &&
+cut -c48-48 /Matches/Temp/1 > /Matches/Temp2/48D &&
+cut -c49-49 /Matches/Temp/1 > /Matches/Temp2/49D &&
+cut -c50-50 /Matches/Temp/1 > /Matches/Temp2/50D &&
+cut -c51-51 /Matches/Temp/1 > /Matches/Temp2/51D &&
+cut -c52-52 /Matches/Temp/1 > /Matches/Temp2/52D &&
+cut -c53-53 /Matches/Temp/1 > /Matches/Temp2/53D &&
+cut -c54-54 /Matches/Temp/1 > /Matches/Temp2/54D &&
+cut -c55-55 /Matches/Temp/1 > /Matches/Temp2/55D &&
+cut -c56-56 /Matches/Temp/1 > /Matches/Temp2/56D &&
+cut -c57-57 /Matches/Temp/1 > /Matches/Temp2/57D &&
+cut -c58-58 /Matches/Temp/1 > /Matches/Temp2/58D &&
+cut -c59-59 /Matches/Temp/1 > /Matches/Temp2/59D &&
+cut -c60-60 /Matches/Temp/1 > /Matches/Temp2/60D &&
+cut -c61-61 /Matches/Temp/1 > /Matches/Temp2/61D &&
+cut -c62-62 /Matches/Temp/1 > /Matches/Temp2/62D &&
+cut -c63-63 /Matches/Temp/1 > /Matches/Temp2/63D &&
+cut -c64-64 /Matches/Temp/1 > /Matches/Temp2/64D &&
+cut -c65-65 /Matches/Temp/1 > /Matches/Temp2/65D &&
+cut -c66-66 /Matches/Temp/1 > /Matches/Temp2/66D &&
+cut -c67-67 /Matches/Temp/1 > /Matches/Temp2/67D &&
+cut -c68-68 /Matches/Temp/1 > /Matches/Temp2/68D &&
+cut -c69-69 /Matches/Temp/1 > /Matches/Temp2/69D &&
+cut -c70-70 /Matches/Temp/1 > /Matches/Temp2/70D &&
+cut -c71-71 /Matches/Temp/1 > /Matches/Temp2/71D &&
+cut -c72-72 /Matches/Temp/1 > /Matches/Temp2/72D &&
+cut -c73-73 /Matches/Temp/1 > /Matches/Temp2/73D &&
+cut -c74-74 /Matches/Temp/1 > /Matches/Temp2/74D &&
+cut -c75-75 /Matches/Temp/1 > /Matches/Temp2/75D &&
+cut -c76-76 /Matches/Temp/1 > /Matches/Temp2/76D &&
+cut -c77-77 /Matches/Temp/1 > /Matches/Temp2/77D &&
+cut -c78-78 /Matches/Temp/1 > /Matches/Temp2/78D &&
+cut -c79-79 /Matches/Temp/1 > /Matches/Temp2/79D &&
+cut -c80-80 /Matches/Temp/1 > /Matches/Temp2/80D &&
+cut -c81-81 /Matches/Temp/1 > /Matches/Temp2/81D &&
+cut -c82-82 /Matches/Temp/1 > /Matches/Temp2/82D &&
+cut -c83-83 /Matches/Temp/1 > /Matches/Temp2/83D &&
+cut -c84-84 /Matches/Temp/1 > /Matches/Temp2/84D &&
+cut -c85-85 /Matches/Temp/1 > /Matches/Temp2/85D &&
+cut -c86-86 /Matches/Temp/1 > /Matches/Temp2/86D &&
+cut -c87-87 /Matches/Temp/1 > /Matches/Temp2/87D &&
+cut -c88-88 /Matches/Temp/1 > /Matches/Temp2/88D &&
+cut -c89-89 /Matches/Temp/1 > /Matches/Temp2/89D &&
+cut -c90-90 /Matches/Temp/1 > /Matches/Temp2/90D &&
+cut -c91-91 /Matches/Temp/1 > /Matches/Temp2/91D &&
+cut -c92-92 /Matches/Temp/1 > /Matches/Temp2/92D &&
+cut -c93-93 /Matches/Temp/1 > /Matches/Temp2/93D &&
+cut -c94-94 /Matches/Temp/1 > /Matches/Temp2/94D &&
+cut -c95-95 /Matches/Temp/1 > /Matches/Temp2/95D &&
+cut -c96-96 /Matches/Temp/1 > /Matches/Temp2/96D &&
+cut -c97-97 /Matches/Temp/1 > /Matches/Temp2/97D &&
+cut -c98-98 /Matches/Temp/1 > /Matches/Temp2/98D &&
+cut -c99-99 /Matches/Temp/1 > /Matches/Temp2/99D &&
+cut -c100-100 /Matches/Temp/1 > /Matches/Temp2/100D &&
+cut -c101-101 /Matches/Temp/1 > /Matches/Temp2/101D &&
+cut -c102-102 /Matches/Temp/1 > /Matches/Temp2/102D &&
+cut -c103-103 /Matches/Temp/1 > /Matches/Temp2/103D &&
+cut -c104-104 /Matches/Temp/1 > /Matches/Temp2/104D &&
+cut -c105-105 /Matches/Temp/1 > /Matches/Temp2/105D &&
+cut -c106-106 /Matches/Temp/1 > /Matches/Temp2/106D &&
+cut -c107-107 /Matches/Temp/1 > /Matches/Temp2/107D &&
+cut -c108-108 /Matches/Temp/1 > /Matches/Temp2/108D &&
+cut -c109-109 /Matches/Temp/1 > /Matches/Temp2/109D &&
+cut -c110-110 /Matches/Temp/1 > /Matches/Temp2/110D &&
+cut -c111-111 /Matches/Temp/1 > /Matches/Temp2/111D &&
+cut -c112-112 /Matches/Temp/1 > /Matches/Temp2/112D &&
+cut -c113-113 /Matches/Temp/1 > /Matches/Temp2/113D &&
+cut -c114-114 /Matches/Temp/1 > /Matches/Temp2/114D &&
+cut -c115-115 /Matches/Temp/1 > /Matches/Temp2/115D &&
+cut -c116-116 /Matches/Temp/1 > /Matches/Temp2/116D &&
+cut -c117-117 /Matches/Temp/1 > /Matches/Temp2/117D &&
+cut -c118-118 /Matches/Temp/1 > /Matches/Temp2/118D &&
+cut -c119-119 /Matches/Temp/1 > /Matches/Temp2/119D &&
+cut -c120-120 /Matches/Temp/1 > /Matches/Temp2/120D &&
+cut -c121-121 /Matches/Temp/1 > /Matches/Temp2/121D &&
+cut -c122-122 /Matches/Temp/1 > /Matches/Temp2/122D &&
+cut -c123-123 /Matches/Temp/1 > /Matches/Temp2/123D &&
+cut -c124-124 /Matches/Temp/1 > /Matches/Temp2/124D &&
+cut -c125-125 /Matches/Temp/1 > /Matches/Temp2/125D &&
+cut -c126-126 /Matches/Temp/1 > /Matches/Temp2/126D &&
+cut -c127-127 /Matches/Temp/1 > /Matches/Temp2/127D &&
+cut -c128-128 /Matches/Temp/1 > /Matches/Temp2/128D &&
+cut -c129-129 /Matches/Temp/1 > /Matches/Temp2/129D &&
+cut -c130-130 /Matches/Temp/1 > /Matches/Temp2/130D &&
+cut -c131-131 /Matches/Temp/1 > /Matches/Temp2/131D &&
+cut -c132-132 /Matches/Temp/1 > /Matches/Temp2/132D &&
+cut -c133-133 /Matches/Temp/1 > /Matches/Temp2/133D &&
+cut -c134-134 /Matches/Temp/1 > /Matches/Temp2/134D &&
+cut -c135-135 /Matches/Temp/1 > /Matches/Temp2/135D &&
+cut -c136-136 /Matches/Temp/1 > /Matches/Temp2/136D &&
+cut -c137-137 /Matches/Temp/1 > /Matches/Temp2/137D &&
+cut -c138-138 /Matches/Temp/1 > /Matches/Temp2/138D &&
+cut -c139-139 /Matches/Temp/1 > /Matches/Temp2/139D &&
+cut -c140-140 /Matches/Temp/1 > /Matches/Temp2/140D &&
+cut -c141-141 /Matches/Temp/1 > /Matches/Temp2/141D &&
+cut -c142-142 /Matches/Temp/1 > /Matches/Temp2/142D &&
+cut -c143-143 /Matches/Temp/1 > /Matches/Temp2/143D &&
+cut -c144-144 /Matches/Temp/1 > /Matches/Temp2/144D &&
+cut -c145-145 /Matches/Temp/1 > /Matches/Temp2/145D &&
+cut -c146-146 /Matches/Temp/1 > /Matches/Temp2/146D &&
+cut -c147-147 /Matches/Temp/1 > /Matches/Temp2/147D &&
+cut -c148-148 /Matches/Temp/1 > /Matches/Temp2/148D &&
+cut -c149-149 /Matches/Temp/1 > /Matches/Temp2/149D &&
+cut -c150-150 /Matches/Temp/1 > /Matches/Temp2/150D &&
+cut -c151-151 /Matches/Temp/1 > /Matches/Temp2/151D &&
+cut -c152-152 /Matches/Temp/1 > /Matches/Temp2/152D &&
+cut -c153-153 /Matches/Temp/1 > /Matches/Temp2/153D &&
+cut -c154-154 /Matches/Temp/1 > /Matches/Temp2/154D &&
+cut -c155-155 /Matches/Temp/1 > /Matches/Temp2/155D &&
+cut -c156-156 /Matches/Temp/1 > /Matches/Temp2/156D &&
+cut -c157-157 /Matches/Temp/1 > /Matches/Temp2/157D &&
+cut -c158-158 /Matches/Temp/1 > /Matches/Temp2/158D &&
+cut -c159-159 /Matches/Temp/1 > /Matches/Temp2/159D &&
+cut -c160-160 /Matches/Temp/1 > /Matches/Temp2/160D &&
+cut -c161-161 /Matches/Temp/1 > /Matches/Temp2/161D &&
+cut -c162-162 /Matches/Temp/1 > /Matches/Temp2/162D &&
+cut -c163-163 /Matches/Temp/1 > /Matches/Temp2/163D &&
+cut -c164-164 /Matches/Temp/1 > /Matches/Temp2/164D &&
+cut -c165-165 /Matches/Temp/1 > /Matches/Temp2/165D &&
+cut -c166-166 /Matches/Temp/1 > /Matches/Temp2/166D &&
+cut -c167-167 /Matches/Temp/1 > /Matches/Temp2/167D &&
+cut -c168-168 /Matches/Temp/1 > /Matches/Temp2/168D &&
+cut -c169-169 /Matches/Temp/1 > /Matches/Temp2/169D &&
+cut -c170-170 /Matches/Temp/1 > /Matches/Temp2/170D &&
+cut -c171-171 /Matches/Temp/1 > /Matches/Temp2/171D &&
+cut -c172-172 /Matches/Temp/1 > /Matches/Temp2/172D &&
+cut -c173-173 /Matches/Temp/1 > /Matches/Temp2/173D &&
+cut -c174-174 /Matches/Temp/1 > /Matches/Temp2/174D &&
+cut -c175-175 /Matches/Temp/1 > /Matches/Temp2/175D &&
+cut -c176-176 /Matches/Temp/1 > /Matches/Temp2/176D &&
+cut -c177-177 /Matches/Temp/1 > /Matches/Temp2/177D &&
+cut -c178-178 /Matches/Temp/1 > /Matches/Temp2/178D &&
+cut -c179-179 /Matches/Temp/1 > /Matches/Temp2/179D &&
+cut -c180-180 /Matches/Temp/1 > /Matches/Temp2/180D &&
+cut -c181-181 /Matches/Temp/1 > /Matches/Temp2/181D &&
+cut -c182-182 /Matches/Temp/1 > /Matches/Temp2/182D &&
+cut -c183-183 /Matches/Temp/1 > /Matches/Temp2/183D &&
+cut -c184-184 /Matches/Temp/1 > /Matches/Temp2/184D &&
+cut -c185-185 /Matches/Temp/1 > /Matches/Temp2/185D &&
+cut -c186-186 /Matches/Temp/1 > /Matches/Temp2/186D &&
+cut -c187-187 /Matches/Temp/1 > /Matches/Temp2/187D &&
+cut -c188-188 /Matches/Temp/1 > /Matches/Temp2/188D &&
+cut -c189-189 /Matches/Temp/1 > /Matches/Temp2/189D &&
+cut -c190-190 /Matches/Temp/1 > /Matches/Temp2/190D &&
+cut -c191-191 /Matches/Temp/1 > /Matches/Temp2/191D &&
+cut -c192-192 /Matches/Temp/1 > /Matches/Temp2/192D &&
+cut -c193-193 /Matches/Temp/1 > /Matches/Temp2/193D &&
+cut -c194-194 /Matches/Temp/1 > /Matches/Temp2/194D &&
+cut -c195-195 /Matches/Temp/1 > /Matches/Temp2/195D &&
+cut -c196-196 /Matches/Temp/1 > /Matches/Temp2/196D &&
+cut -c197-197 /Matches/Temp/1 > /Matches/Temp2/197D &&
+cut -c198-198 /Matches/Temp/1 > /Matches/Temp2/198D &&
+cut -c199-199 /Matches/Temp/1 > /Matches/Temp2/199D &&
+cut -c200-200 /Matches/Temp/1 > /Matches/Temp2/200D &&
+cut -c201-201 /Matches/Temp/1 > /Matches/Temp2/201D &&
+cut -c202-202 /Matches/Temp/1 > /Matches/Temp2/202D &&
+cut -c203-203 /Matches/Temp/1 > /Matches/Temp2/203D &&
+cut -c204-204 /Matches/Temp/1 > /Matches/Temp2/204D &&
+cut -c205-205 /Matches/Temp/1 > /Matches/Temp2/205D &&
+cut -c206-206 /Matches/Temp/1 > /Matches/Temp2/206D &&
+cut -c207-207 /Matches/Temp/1 > /Matches/Temp2/207D &&
+cut -c208-208 /Matches/Temp/1 > /Matches/Temp2/208D &&
+cut -c209-209 /Matches/Temp/1 > /Matches/Temp2/209D &&
+cut -c210-210 /Matches/Temp/1 > /Matches/Temp2/210D &&
+cut -c211-211 /Matches/Temp/1 > /Matches/Temp2/211D &&
+cut -c212-212 /Matches/Temp/1 > /Matches/Temp2/212D &&
+cut -c213-213 /Matches/Temp/1 > /Matches/Temp2/213D &&
+cut -c214-214 /Matches/Temp/1 > /Matches/Temp2/214D &&
+cut -c215-215 /Matches/Temp/1 > /Matches/Temp2/215D &&
+cut -c216-216 /Matches/Temp/1 > /Matches/Temp2/216D &&
+cut -c217-217 /Matches/Temp/1 > /Matches/Temp2/217D &&
+cut -c218-218 /Matches/Temp/1 > /Matches/Temp2/218D &&
+cut -c219-219 /Matches/Temp/1 > /Matches/Temp2/219D &&
+cut -c220-220 /Matches/Temp/1 > /Matches/Temp2/220D &&
+cut -c221-221 /Matches/Temp/1 > /Matches/Temp2/221D &&
+cut -c222-222 /Matches/Temp/1 > /Matches/Temp2/222D &&
+cut -c223-223 /Matches/Temp/1 > /Matches/Temp2/223D &&
+cut -c224-224 /Matches/Temp/1 > /Matches/Temp2/224D &&
+cut -c225-225 /Matches/Temp/1 > /Matches/Temp2/225D &&
+cut -c226-226 /Matches/Temp/1 > /Matches/Temp2/226D &&
+cut -c227-227 /Matches/Temp/1 > /Matches/Temp2/227D &&
+cut -c228-228 /Matches/Temp/1 > /Matches/Temp2/228D &&
+cut -c229-229 /Matches/Temp/1 > /Matches/Temp2/229D &&
+cut -c230-230 /Matches/Temp/1 > /Matches/Temp2/230D &&
+cut -c231-231 /Matches/Temp/1 > /Matches/Temp2/231D &&
+cut -c232-232 /Matches/Temp/1 > /Matches/Temp2/232D &&
+cut -c233-233 /Matches/Temp/1 > /Matches/Temp2/233D &&
+cut -c234-234 /Matches/Temp/1 > /Matches/Temp2/234D &&
+cut -c235-235 /Matches/Temp/1 > /Matches/Temp2/235D &&
+cut -c236-236 /Matches/Temp/1 > /Matches/Temp2/236D &&
+cut -c237-237 /Matches/Temp/1 > /Matches/Temp2/237D &&
+cut -c238-238 /Matches/Temp/1 > /Matches/Temp2/238D &&
+cut -c239-239 /Matches/Temp/1 > /Matches/Temp2/239D &&
+cut -c240-240 /Matches/Temp/1 > /Matches/Temp2/240D &&
+cut -c241-241 /Matches/Temp/1 > /Matches/Temp2/241D &&
+cut -c242-242 /Matches/Temp/1 > /Matches/Temp2/242D &&
+cut -c243-243 /Matches/Temp/1 > /Matches/Temp2/243D &&
+cut -c244-244 /Matches/Temp/1 > /Matches/Temp2/244D &&
+cut -c245-245 /Matches/Temp/1 > /Matches/Temp2/245D &&
+cut -c246-246 /Matches/Temp/1 > /Matches/Temp2/246D &&
+cut -c247-247 /Matches/Temp/1 > /Matches/Temp2/247D &&
+cut -c248-248 /Matches/Temp/1 > /Matches/Temp2/248D &&
+cut -c249-249 /Matches/Temp/1 > /Matches/Temp2/249D &&
+cut -c250-250 /Matches/Temp/1 > /Matches/Temp2/250D &&
+cut -c251-251 /Matches/Temp/1 > /Matches/Temp2/251D &&
+cut -c252-252 /Matches/Temp/1 > /Matches/Temp2/252D &&
+cut -c253-253 /Matches/Temp/1 > /Matches/Temp2/253D &&
+cut -c254-254 /Matches/Temp/1 > /Matches/Temp2/254D &&
+cut -c255-255 /Matches/Temp/1 > /Matches/Temp2/255D &&
+cut -c256-256 /Matches/Temp/1 > /Matches/Temp2/256D &&
+sed -i '/^[[:space:]]*$/d;s/[[:space:]]*$//' /Matches/Temp2/1D /Matches/Temp2/2D /Matches/Temp2/3D /Matches/Temp2/4D /Matches/Temp2/5D /Matches/Temp2/6D /Matches/Temp2/7D /Matches/Temp2/8D /Matches/Temp2/9D /Matches/Temp2/10D /Matches/Temp2/11D /Matches/Temp2/12D /Matches/Temp2/13D /Matches/Temp2/14D /Matches/Temp2/15D /Matches/Temp2/16D /Matches/Temp2/17D /Matches/Temp2/18D /Matches/Temp2/19D /Matches/Temp2/20D /Matches/Temp2/21D /Matches/Temp2/22D /Matches/Temp2/23D /Matches/Temp2/24D /Matches/Temp2/25D /Matches/Temp2/26D /Matches/Temp2/27D /Matches/Temp2/28D /Matches/Temp2/29D /Matches/Temp2/30D /Matches/Temp2/31D /Matches/Temp2/32D /Matches/Temp2/33D /Matches/Temp2/34D /Matches/Temp2/35D /Matches/Temp2/36D /Matches/Temp2/37D /Matches/Temp2/38D /Matches/Temp2/39D /Matches/Temp2/40D /Matches/Temp2/41D /Matches/Temp2/42D /Matches/Temp2/43D /Matches/Temp2/44D /Matches/Temp2/45D /Matches/Temp2/46D /Matches/Temp2/47D /Matches/Temp2/48D /Matches/Temp2/49D /Matches/Temp2/50D /Matches/Temp2/51D /Matches/Temp2/52D /Matches/Temp2/53D /Matches/Temp2/54D /Matches/Temp2/55D /Matches/Temp2/56D /Matches/Temp2/57D /Matches/Temp2/58D /Matches/Temp2/59D /Matches/Temp2/60D /Matches/Temp2/61D /Matches/Temp2/62D /Matches/Temp2/63D /Matches/Temp2/64D /Matches/Temp2/65D /Matches/Temp2/66D /Matches/Temp2/67D /Matches/Temp2/68D /Matches/Temp2/69D /Matches/Temp2/70D /Matches/Temp2/71D /Matches/Temp2/72D /Matches/Temp2/73D /Matches/Temp2/74D /Matches/Temp2/75D /Matches/Temp2/76D /Matches/Temp2/77D /Matches/Temp2/78D /Matches/Temp2/79D /Matches/Temp2/80D /Matches/Temp2/81D /Matches/Temp2/82D /Matches/Temp2/83D /Matches/Temp2/84D /Matches/Temp2/85D /Matches/Temp2/86D /Matches/Temp2/87D /Matches/Temp2/88D /Matches/Temp2/89D /Matches/Temp2/90D /Matches/Temp2/91D /Matches/Temp2/92D /Matches/Temp2/93D /Matches/Temp2/94D /Matches/Temp2/95D /Matches/Temp2/96D /Matches/Temp2/97D /Matches/Temp2/98D /Matches/Temp2/99D /Matches/Temp2/100D /Matches/Temp2/101D /Matches/Temp2/102D /Matches/Temp2/103D /Matches/Temp2/104D /Matches/Temp2/105D /Matches/Temp2/106D /Matches/Temp2/107D /Matches/Temp2/108D /Matches/Temp2/109D /Matches/Temp2/110D /Matches/Temp2/111D /Matches/Temp2/112D /Matches/Temp2/113D /Matches/Temp2/114D /Matches/Temp2/115D /Matches/Temp2/116D /Matches/Temp2/117D /Matches/Temp2/118D /Matches/Temp2/119D /Matches/Temp2/120D /Matches/Temp2/121D /Matches/Temp2/122D /Matches/Temp2/123D /Matches/Temp2/124D /Matches/Temp2/125D /Matches/Temp2/126D /Matches/Temp2/127D /Matches/Temp2/128D /Matches/Temp2/129D /Matches/Temp2/130D /Matches/Temp2/131D /Matches/Temp2/132D /Matches/Temp2/133D /Matches/Temp2/134D /Matches/Temp2/135D /Matches/Temp2/136D /Matches/Temp2/137D /Matches/Temp2/138D /Matches/Temp2/139D /Matches/Temp2/140D /Matches/Temp2/141D /Matches/Temp2/142D /Matches/Temp2/143D /Matches/Temp2/144D /Matches/Temp2/145D /Matches/Temp2/146D /Matches/Temp2/147D /Matches/Temp2/148D /Matches/Temp2/149D /Matches/Temp2/150D /Matches/Temp2/151D /Matches/Temp2/152D /Matches/Temp2/153D /Matches/Temp2/154D /Matches/Temp2/155D /Matches/Temp2/156D /Matches/Temp2/157D /Matches/Temp2/158D /Matches/Temp2/159D /Matches/Temp2/160D /Matches/Temp2/161D /Matches/Temp2/162D /Matches/Temp2/163D /Matches/Temp2/164D /Matches/Temp2/165D /Matches/Temp2/166D /Matches/Temp2/167D /Matches/Temp2/168D /Matches/Temp2/169D /Matches/Temp2/170D /Matches/Temp2/171D /Matches/Temp2/172D /Matches/Temp2/173D /Matches/Temp2/174D /Matches/Temp2/175D /Matches/Temp2/176D /Matches/Temp2/177D /Matches/Temp2/178D /Matches/Temp2/179D /Matches/Temp2/180D /Matches/Temp2/181D /Matches/Temp2/182D /Matches/Temp2/183D /Matches/Temp2/184D /Matches/Temp2/185D /Matches/Temp2/186D /Matches/Temp2/187D /Matches/Temp2/188D /Matches/Temp2/189D /Matches/Temp2/190D /Matches/Temp2/191D /Matches/Temp2/192D /Matches/Temp2/193D /Matches/Temp2/194D /Matches/Temp2/195D /Matches/Temp2/196D /Matches/Temp2/197D /Matches/Temp2/198D /Matches/Temp2/199D /Matches/Temp2/200D /Matches/Temp2/201D /Matches/Temp2/202D /Matches/Temp2/203D /Matches/Temp2/204D /Matches/Temp2/205D /Matches/Temp2/206D /Matches/Temp2/207D /Matches/Temp2/208D /Matches/Temp2/209D /Matches/Temp2/210D /Matches/Temp2/211D /Matches/Temp2/212D /Matches/Temp2/213D /Matches/Temp2/214D /Matches/Temp2/215D /Matches/Temp2/216D /Matches/Temp2/217D /Matches/Temp2/218D /Matches/Temp2/219D /Matches/Temp2/220D /Matches/Temp2/221D /Matches/Temp2/222D /Matches/Temp2/223D /Matches/Temp2/224D /Matches/Temp2/225D /Matches/Temp2/226D /Matches/Temp2/227D /Matches/Temp2/228D /Matches/Temp2/229D /Matches/Temp2/230D /Matches/Temp2/231D /Matches/Temp2/232D /Matches/Temp2/233D /Matches/Temp2/234D /Matches/Temp2/235D /Matches/Temp2/236D /Matches/Temp2/237D /Matches/Temp2/238D /Matches/Temp2/239D /Matches/Temp2/240D /Matches/Temp2/241D /Matches/Temp2/242D /Matches/Temp2/243D /Matches/Temp2/244D /Matches/Temp2/245D /Matches/Temp2/246D /Matches/Temp2/247D /Matches/Temp2/248D /Matches/Temp2/249D /Matches/Temp2/250D /Matches/Temp2/251D /Matches/Temp2/252D /Matches/Temp2/253D /Matches/Temp2/254D /Matches/Temp2/255D /Matches/Temp2/256D &&
+wc -w < /Matches/Temp2/1D > /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/2D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/3D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/4D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/5D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/6D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/7D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/8D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/9D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/10D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/11D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/12D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/13D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/14D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/15D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/16D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/17D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/18D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/19D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/20D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/21D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/22D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/23D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/24D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/25D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/26D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/27D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/28D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/29D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/30D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/31D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/32D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/33D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/34D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/35D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/36D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/37D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/38D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/39D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/40D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/41D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/42D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/43D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/44D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/45D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/46D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/47D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/48D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/49D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/50D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/51D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/52D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/53D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/54D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/55D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/56D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/57D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/58D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/59D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/60D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/61D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/62D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/63D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/64D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/65D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/66D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/67D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/68D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/69D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/70D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/71D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/72D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/73D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/74D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/75D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/76D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/77D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/78D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/79D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/80D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/81D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/82D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/83D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/84D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/85D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/86D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/87D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/88D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/89D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/90D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/91D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/92D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/93D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/94D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/95D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/96D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/97D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/98D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/99D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/100D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/101D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/102D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/103D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/104D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/105D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/106D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/107D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/108D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/109D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/110D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/111D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/112D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/113D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/114D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/115D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/116D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/117D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/118D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/119D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/120D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/121D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/122D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/123D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/124D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/125D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/126D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/127D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/128D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/129D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/130D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/131D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/132D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/133D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/134D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/135D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/136D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/137D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/138D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/139D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/140D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/141D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/142D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/143D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/144D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/145D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/146D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/147D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/148D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/149D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/150D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/151D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/152D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/153D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/154D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/155D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/156D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/157D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/158D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/159D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/160D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/161D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/162D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/163D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/164D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/165D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/166D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/167D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/168D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/169D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/170D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/171D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/172D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/173D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/174D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/175D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/176D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/177D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/178D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/179D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/180D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/181D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/182D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/183D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/184D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/185D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/186D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/187D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/188D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/189D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/190D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/191D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/192D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/193D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/194D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/195D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/196D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/197D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/198D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/199D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/200D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/201D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/202D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/203D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/204D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/205D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/206D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/207D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/208D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/209D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/210D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/211D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/212D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/213D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/214D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/215D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/216D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/217D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/218D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/219D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/220D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/221D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/222D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/223D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/224D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/225D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/226D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/227D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/228D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/229D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/230D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/231D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/232D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/233D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/234D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/235D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/236D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/237D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/238D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/239D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/240D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/241D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/242D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/243D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/244D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/245D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/246D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/247D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/248D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/249D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/250D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/251D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/252D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/253D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/254D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/255D >> /Matches/Temp2/Deck &&
+wc -w < /Matches/Temp2/256D >> /Matches/Temp2/Deck
