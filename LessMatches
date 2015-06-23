@@ -1,0 +1,17 @@
+#!/bin/bash
+export DISPLAY=:0
+export GPU_MAX_ALLOC_PERCENT=100
+export GPU_USE_SYNC_OBJECTS=1
+kill -9 $(cat /tmp/pids/mongrel.pid) &
+sh /Matches/Replace &&
+sh /Matches/Remove &&
+sh /Matches/Keying &&
+sh /Matches/Temp/MKey &&
+sleep 0;
+cat /Matches/Temp/1 &&
+cat /Matches/Ref &&
+cat /Matches/Ref >> /Matches/DexList &&
+sleep 1;
+rm /Matches/Temp/1 &&
+pgrep -x sh > /tmp/pids/mongrel.pid &&
+sh /Matches/lessMatches
